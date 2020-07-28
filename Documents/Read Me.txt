@@ -1,5 +1,5 @@
 
 1.)Create the Database tables with query given in Database_Script.sql
 
-2.)Change configration of Database.properties file according to your h2 database
+2.)Change configration of Database in config.properties file according to your h2 database
  
